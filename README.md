@@ -3,7 +3,6 @@ Collection of Basic C++ Data Structures
 
 
 Basic Searching:
-
 Sequential and Binary Search on Arrays and Linked Lists
 
 
